@@ -1,4 +1,4 @@
-<h1> Not Stop Recognizer - Neural Network & OpenCV</h1>
+<h1> Not Stop Recognizer using Neural Network in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
